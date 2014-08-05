@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Caveman-Code]]></title>
+  <link href="http://hatchy.github.io/atom.xml" rel="self"/>
+  <link href="http://hatchy.github.io/"/>
+  <updated>2014-08-05T20:33:26+02:00</updated>
+  <id>http://hatchy.github.io/</id>
+  <author>
+    <name><![CDATA[Michael Hatch]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Zambia Post]]></title>
+    <link href="http://hatchy.github.io/blog/2014/08/04/the-first-post/"/>
+    <updated>2014-08-04T20:49:17+02:00</updated>
+    <id>http://hatchy.github.io/blog/2014/08/04/the-first-post</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://hatchy.github.io/images/zambia-flag.png" width="300" height="200"></p>
+
+<p>This is the standard first post!
+I&rsquo;m in Zambia at the moment so, hopefully I&rsquo;ll be able to get some good content into this blog soon and you won&rsquo;t be reading this in 2018 and this is still the only post!
+I&rsquo;ll blog about whatever is relevant to me at the time.</p>
+
+<p>Probably worth mentioning the pages that were helpful when creating this blog (This far atleast!).
+Look down!</p>
+
+<ul>
+<li><a href="http://miguelcamba.com/blog/2013/04/22/tutorial-create-a-blog-with-octopress-and-host-it-in-github-pages/">Tutorial: Create a Blog With Octopress and Host It in Github Pages</a></li>
+<li><a href="http://tedwise.com/markdown/">Discount Markdown Syntax</a></li>
+</ul>
+
+
+<p>Mike.</p>
+]]></content>
+  </entry>
+  
+</feed>
