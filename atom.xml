@@ -4,7 +4,7 @@
   <title><![CDATA[Caveman-Code]]></title>
   <link href="http://hatchy.github.io/atom.xml" rel="self"/>
   <link href="http://hatchy.github.io/"/>
-  <updated>2014-08-06T14:58:22+02:00</updated>
+  <updated>2014-08-06T15:46:53+02:00</updated>
   <id>http://hatchy.github.io/</id>
   <author>
     <name><![CDATA[Michael Hatch]]></name>
@@ -18,7 +18,7 @@
     <link href="http://hatchy.github.io/blog/2014/08/04/the-first-post/"/>
     <updated>2014-08-04T20:49:17+02:00</updated>
     <id>http://hatchy.github.io/blog/2014/08/04/the-first-post</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://hatchy.github.io/images/zambia-flag.png" width="300" height="200"></p>
+    <content type="html"><![CDATA[<p><img src="http://hatchy.github.io/images/zambia-flag.png" title="Zambian Flag" alt="Zambian Flag" /></p>
 
 <p>This is the standard first post!
 I&rsquo;m in Zambia at the moment so, hopefully I&rsquo;ll be able to get some good content into this blog soon and you won&rsquo;t be reading this in 2018 and this is still the only post!
