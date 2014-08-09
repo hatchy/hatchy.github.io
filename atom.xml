@@ -4,7 +4,7 @@
   <title><![CDATA[Caveman Coding]]></title>
   <link href="http://hatchy.github.io/atom.xml" rel="self"/>
   <link href="http://hatchy.github.io/"/>
-  <updated>2014-08-09T20:47:50+02:00</updated>
+  <updated>2014-08-09T20:55:19+02:00</updated>
   <id>http://hatchy.github.io/</id>
   <author>
     <name><![CDATA[Michael Hatch]]></name>
@@ -12,31 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[The First Post]]></title>
-    <link href="http://hatchy.github.io/blog/2014/08/04/the-first-post/"/>
-    <updated>2014-08-04T20:49:17+02:00</updated>
-    <id>http://hatchy.github.io/blog/2014/08/04/the-first-post</id>
-    <content type="html"><![CDATA[<p>This is the standard first post!
-I&rsquo;m in Zambia at the moment so, hopefully I&rsquo;ll be able to get some good content into this blog soon and you won&rsquo;t be reading this in 2018 and this is still the only post!
-I&rsquo;ll blog about whatever is relevant to me at the time.</p>
-
-<p>Probably worth mentioning the pages that were helpful when creating this blog (this far atleast!).
-Look down!</p>
-
-<ul>
-<li><a href="http://miguelcamba.com/blog/2013/04/22/tutorial-create-a-blog-with-octopress-and-host-it-in-github-pages/">Tutorial: Create a Blog With Octopress and Host It in Github Pages</a></li>
-<li><a href="http://tedwise.com/markdown/">Discount Markdown Syntax</a></li>
-</ul>
-
-
-<p>Mike.                                                                                                         <br/>
-(Here&rsquo;s the flag of Zambia)</p>
-
-<p><a href="https://commons.wikimedia.org/wiki/File:Flag_of_Zambia.svg#mediaviewer/File:Flag_of_Zambia.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png" alt="Flag of Zambia.svg"></a><br>&#8220;<a href="https://commons.wikimedia.org/wiki/File:Flag_of_Zambia.svg#mediaviewer/File:Flag_of_Zambia.svg">Flag of Zambia</a>&#8221; by Author: Tobias Jakobs (in the public domain) and <a href="//commons.wikimedia.org/wiki/User:Zscout370" title="User:Zscout370">User:Zscout370</a> <a href="//commons.wikimedia.org/wiki/User_talk:Zscout370" title="User talk:Zscout370">(Return fire)</a> - <a rel="nofollow" class="external free" href="http://www.parliament.gov.zm/downloads/">http://www.parliament.gov.zm/downloads/</a>. Via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
-
-]]></content>
-  </entry>
   
 </feed>
